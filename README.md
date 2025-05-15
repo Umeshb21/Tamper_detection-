@@ -1,9 +1,8 @@
 # 🛡️ Tamper Detection in Academic Credentials
 
-**Internship Role:** AI Development Intern  
 **Project Title:** Tamper Detection in Academic Credentials  
-**Submission:** GitHub + Google Drive (Deadline: May 11, 2025)  
-**Candidate:** [Your Name]  
+**Submission:** GitHub + Google Drive  
+**Candidate:** Umesh Chandra 
 
 ---
 
